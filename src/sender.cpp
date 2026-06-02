@@ -39,7 +39,7 @@ void setup(){
 }
 
 void loop(){
-  strcpy(data.a, "This is a char");
+  strcpy(data.a, "Voluptatem repudiandae aut non maiores maiores. Omnis vero occaecati delectus aut voluptatibus numquam. Earum sit quidem eius molestiae. Omnis eligendi eveniet accusantium. Dignissimos qui maxime fugit in voluptatibus");
   // data.b = random(1, 20);
   // data.c = 1.2;
   // data.d = false;
